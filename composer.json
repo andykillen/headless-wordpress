@@ -1,6 +1,7 @@
 {
     "name": "andykillen/headless-wordpress",
     "type": "wordpress-theme",
-    "version": "1.0.0",
-    "description": "Simple headless theme"
+    "version": "1.0.1",
+    "description": "Simple headless theme",
+    "minimum-stability": "dev"
 }
